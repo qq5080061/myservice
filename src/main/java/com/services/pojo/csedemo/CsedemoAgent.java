@@ -15,7 +15,7 @@ public class CsedemoAgent {
     public String sayHei(String name){
 
         // Do Some Magic Here!
-        return null;
+        return "Hi"+name+",Welcome to ServiceStage!";
     };
 
 
@@ -29,7 +29,7 @@ public class CsedemoAgent {
     public String sayHi(String name){
 
         // Do Some Magic Here!
-        return null;
+         return "Hi"+name+"Welcome to ServiceStage!";
     };
 
 
